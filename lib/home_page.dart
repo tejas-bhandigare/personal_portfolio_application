@@ -95,7 +95,7 @@ class HomePage extends StatelessWidget {
                   onPressed: () {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => PageThree()),
+                      MaterialPageRoute(builder: (context) => PageFour()),
                     );
                   },
 
@@ -107,7 +107,7 @@ class HomePage extends StatelessWidget {
                   onPressed: () {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => PageFour()),
+                      MaterialPageRoute(builder: (context) => PageFive()),
                     );
                   },
 
@@ -120,7 +120,7 @@ class HomePage extends StatelessWidget {
                   onPressed: () {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => PageFour()),
+                      MaterialPageRoute(builder: (context) => PageSix()),
                     );
                   },
                 ),
@@ -139,6 +139,7 @@ class HomePage extends StatelessWidget {
       ),
       ),
         ),
+
     );
   }
 }

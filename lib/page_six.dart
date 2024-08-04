@@ -5,7 +5,7 @@ class PageSix extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Page six'),
+        title: Text('Learning Resources'),
       ),
       body: Center(
         child: Text('This is Page six'),
