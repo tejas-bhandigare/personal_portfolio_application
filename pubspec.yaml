@@ -70,6 +70,15 @@ flutter:
     - assets/icons/skill.png
     - assets/icons/certificate.png
     - assets/icons/resources.png
+    - assets/language/css.png
+    - assets/language/flutter.png
+    - assets/language/html.png
+    - assets/language/java.png
+    - assets/language/js.png
+    - assets/language/mysql.png
+    - assets/language/springboot.png
+    - assets/language/bootstarap.png
+
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
