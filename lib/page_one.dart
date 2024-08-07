@@ -9,6 +9,9 @@ class PageOne extends StatelessWidget {
         backgroundColor: Colors.blueAccent,
       ),
       body:SingleChildScrollView(
+
+        padding: EdgeInsets.all(12),
+
 child:
       Center(
 
@@ -61,7 +64,11 @@ child:
            Container(
              child:Center(
                child:
-               Text("Carrer Objectives -""To pursue a career with an organization will help me to explore and achieve expertise through opportunities and learning which will help me to enhance my skills along with ensuring organizational Success.",
+               Text("Carrer Objectives -"
+    "                                           "
+                   "To pursue a career with "
+                   "an organization will help me to explore "
+                   "and achieve the expertise through opportunities and the learning which will help me to enhance my skills along with ensuring organizational Success.",
                style: TextStyle(
                  fontSize: 20
                ),),
