@@ -78,6 +78,7 @@ flutter:
     - assets/language/mysql.png
     - assets/language/springboot.png
     - assets/language/bootstarap.png
+    - assets/contacts/
 
 
 

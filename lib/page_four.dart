@@ -18,7 +18,7 @@ class PageFour extends StatelessWidget {
           //1 st project
 
           Container(
-            height: 80,
+            height: 100,
             width: 100,
             child: Text(
               "InZone Android Application                                                      "
@@ -56,7 +56,7 @@ class PageFour extends StatelessWidget {
 //2 nd project
 
           Container(
-            height: 80,
+            height: 100,
             width: 100,
             child: Text(
               "Image Search Web Application                                                     "
@@ -95,7 +95,7 @@ class PageFour extends StatelessWidget {
 
 
           Container(
-            height: 90,
+            height: 100,
             width: 100,
             child: Text(
               "Cafe Crush Web mini project                                                      "
@@ -137,7 +137,7 @@ class PageFour extends StatelessWidget {
 
 
           Container(
-            height: 80,
+            height: 100,
             width: 100,
             child: Text(
               "Music player Android Application                                                      "
